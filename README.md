@@ -4,6 +4,7 @@
   <p>
     <a href="https://pypi.org/project/nanobot-ai/"><img src="https://img.shields.io/pypi/v/nanobot-ai" alt="PyPI"></a>
     <a href="https://pepy.tech/project/nanobot-ai"><img src="https://static.pepy.tech/badge/nanobot-ai" alt="Downloads"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FXichunXu%2Fnanobot?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FXichunXu%2Fnanobot.svg?type=shield"/></a>
     <img src="https://img.shields.io/badge/python-≥3.11-blue" alt="Python">
     <img src="https://img.shields.io/badge/license-MIT-green" alt="License">
     <a href="https://github.com/HKUDS/nanobot/graphs/commit-activity" target="_blank">
@@ -20,6 +21,9 @@
 </div>
 
 🐈 **nanobot** is an open-source and ultra-lightweight AI agent in the spirit of [OpenClaw](https://github.com/openclaw/openclaw), [Claude Code](https://www.anthropic.com/claude-code), and [Codex](https://www.openai.com/codex/). It keeps the core agent loop small and readable while still supporting chat channels, memory, MCP and practical deployment paths, so you can go from local setup to a long-running personal agent with minimal overhead.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FXichunXu%2Fnanobot.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FXichunXu%2Fnanobot?ref=badge_large)
 
 ## 📢 News
 
